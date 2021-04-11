@@ -4,7 +4,12 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-https://www.linkedin.com/in/sheetalagarwal544/
+
+Connect with me:
+https://www.linkedin.com/in/sheetalagarwal544/ | LinkedIn
+
+
+
 
 
 <!---
