@@ -8,6 +8,13 @@
 
 - 📫 How to reach me **Sheetalagarwal544@gmail.com**
 
+- 🔭 I’m currently working on **Technical Volunteer at ARTH - The School Of Technology**
+
+- 🌱 I’m currently learning **DevOps , RedHat , Cloud Computing , Machine Learning , Flutter**
+
+- 💬 Ask me about **DevOps , Cloud Computing**
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sheetalagarwal544" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sheetalagarwal544" height="30" width="40" /></a>
