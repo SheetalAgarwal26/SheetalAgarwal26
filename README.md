@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sheetal Agarwal</h1>
 
-<img align="right" alt="Coding" width="400" src="https://lh3.googleusercontent.com/proxy/YdniOoKCteeGtoUsMtDrkiITzyuzPwCMXJqdn5e5PxaBxJ2RyUJN96CYUEwC8kC2r1sxwIxkyOFVaVAHDZk">
+<img align="right" alt="Coding" width="400" src="https://lh3.googleusercontent.com/proxy/LEEVqI6It7CeUr9GvasD-0IsFln1E19Y_6n5GKzMDvZ0RSMlUn-wC911-KISNbEehMRUuwB1FYlgKPKOZGo">
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/sheetalagarwal544]
 
