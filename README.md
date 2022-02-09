@@ -4,8 +4,6 @@
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/sheetalagarwal544]
 
-- 📝 I regularly write articles on [https://sheetalagarwal544.medium.com/](https://sheetalagarwal544.medium.com/)
-
 - 📫 How to reach me **Sheetalagarwal544@gmail.com**
 
 
