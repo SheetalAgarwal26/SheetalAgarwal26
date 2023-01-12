@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sheetal Agarwal</h1>
 
-<img align="right" alt="Coding" width="400" src="https://lh3.googleusercontent.com/proxy/LEEVqI6It7CeUr9GvasD-0IsFln1E19Y_6n5GKzMDvZ0RSMlUn-wC911-KISNbEehMRUuwB1FYlgKPKOZGo">
+
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/sheetalagarwal544]
 
@@ -10,12 +10,12 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sheetalagarwal544" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sheetalagarwal544" height="30" width="40" /></a>
-<a href="https://sheetalagarwal544.medium.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="sheetalagarwal544" height="30" width="40" /></a>
+<a href="https://sheetalagarwal26.medium.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="sheetalagarwal544" height="30" width="40" /></a>
 </p>
 
 
 
-- 🔭 I’m currently working on **Technical Volunteer at ARTH - The School Of Technology**
+- 🔭 I’m currently working on **Seace **
 
 - 🌱 I’m currently learning **DevOps , RedHat , Cloud Computing , Machine Learning , Flutter**
 
