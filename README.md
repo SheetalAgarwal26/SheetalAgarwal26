@@ -15,7 +15,7 @@
 
 
 
-- 🔭 I’m currently working on **Seace **
+- 🔭 I’m currently working on **Searce **
 
 - 🌱 I’m currently learning **DevOps , RedHat , Cloud Computing , Machine Learning , Flutter**
 
