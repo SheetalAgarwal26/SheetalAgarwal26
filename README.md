@@ -77,7 +77,7 @@
 
 <!--Github Progess bar-->
 
-## 📝 Quick Overview 📝
+## Quick Overview
     
 <a href="https://github.com/hackcoderr/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=SheetalAgarwal26&show_icons=true&include_all_commits=true&theme=radical" alt="Sheetal's github stats" />
