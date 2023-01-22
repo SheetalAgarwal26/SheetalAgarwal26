@@ -9,20 +9,22 @@
 <div>
   
 
+<div>
+ <p>
+  <img width="240" height="230" align='right' src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"> 
+</p>
+ 
+ 
 
 ##  ✍ About Me ✍
-
-<img align='left' src='https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif' width='250"'>
-
-
+ 
  This is <b> Sheetal Agarwal</b>, Dedicated and Self-Motivated learner </b>👨🏼‍💻, I am <em><b>DevOps Automation & ☁ Hybrid Multi Cloud Computing ☁Enthusiast Having a Good Leadership & Management Skills .</b></em> Seeking an opportunity to work in challenging environment which helps me to enhance & use my skills to develop sustainable technologies.
+
 
 </div>
 
 
-<div>
-<br>
-<br>
+
 
 
 
