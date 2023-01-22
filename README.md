@@ -15,6 +15,8 @@
 
 ##  ✍ About Me ✍
 
+<img align='left' src='https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif' width='250"'>
+
 
  This is <b> Sheetal Agarwal</b>, Dedicated and Self-Motivated learner </b>👨🏼‍💻, I am <em><b>DevOps Automation & ☁ Hybrid Multi Cloud Computing ☁Enthusiast Having a Good Leadership & Management Skills .</b></em> Seeking an opportunity to work in challenging environment which helps me to enhance & use my skills to develop sustainable technologies.
 
@@ -70,6 +72,8 @@
 <a href="https://linkedin.com/in/sheetalagarwal544" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sheetalagarwal544" height="30" width="40" /></a>
 <a href="https://sheetalagarwal26.medium.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="sheetalagarwal544" height="30" width="40" /></a>
 </p>
+
+
 
 <!--Github Progess bar-->
 
