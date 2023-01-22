@@ -26,8 +26,6 @@
 
 
 
-
-
 ## 👨🏼‍💻 Tools & Technolgies 👨🏼‍💻 
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/SheetalAgarwal26/SheetalAgarwal26/main/images/7139c9e132669abc7c8ad116787b638c.gif" width = "400" height="250"/>
