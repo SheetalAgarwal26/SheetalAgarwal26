@@ -1,9 +1,6 @@
 <!--Header-->
 ### Hi, 🎓 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm Sheetal Agarwal
   <div>
-  <br>
-  <img align="left" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="1000" height="450"/>
-  </br>
   
   </div>
   
@@ -26,6 +23,9 @@
 <div>
 <br>
 <br>
+
+
+
 
  
 <h3 align="left">👨🏼‍💻 Tools & Technolgies 👨🏼‍💻 </h3>
