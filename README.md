@@ -18,7 +18,7 @@
 
 ##  ✍ About Me ✍
  
- This is <b> Sheetal Agarwal</b>, Dedicated and Self-Motivated learner </b>👨🏼‍💻, I am <em><b>DevOps Automation & ☁ Hybrid Multi Cloud Computing ☁Enthusiast Having a Good Leadership & Management Skills .</b></em> Seeking an opportunity to work in challenging environment which helps me to enhance & use my skills to develop sustainable technologies.
+ This is <b> Sheetal Agarwal</b>, Dedicated and Self-Motivated learner </b>👨🏼‍💻, I am <em><b>DevOps and Cloud Automation Enthusiast .</b></em> Seeking an opportunity to work in challenging environment which helps me to enhance & use my skills to develop sustainable technologies.
 
 
 </div>
