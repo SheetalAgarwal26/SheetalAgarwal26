@@ -1,5 +1,5 @@
 <!--Header-->
-### Hi, 🎓 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm Sheetal Agarwal
+### Hi, I'm Sheetal Agarwal 🎓
   <div>
   
   </div>
@@ -66,12 +66,12 @@
 
 </div>
 
-
-<h3 align="left">Connect with me:</h3>
+## Connect with me 
 <p align="left">
 <a href="https://linkedin.com/in/sheetalagarwal544" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sheetalagarwal544" height="30" width="40" /></a>
 <a href="https://sheetalagarwal26.medium.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="sheetalagarwal544" height="30" width="40" /></a>
 </p>
+</div>
 
 
 
