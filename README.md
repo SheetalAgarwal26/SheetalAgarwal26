@@ -70,7 +70,8 @@
 <a href="https://sheetalagarwal26.medium.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="sheetalagarwal544" height="30" width="40" /></a>
 </p>
 </div>
-
+<br>
+</br>
 
 
 <!--Github Progess bar-->
