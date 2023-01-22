@@ -1,10 +1,68 @@
-<h1 align="center">Hi 👋, I'm Sheetal Agarwal</h1>
+<!--Header-->
+### Hi, 🎓 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm Sheetal Agarwal
+  <div>
+  <br>
+  <img align="left" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="1000" height="450"/>
+  </br>
+  
+  </div>
+  
+
+<!--About Me-->
+<div>
+  
 
 
+##  ✍ About Me ✍
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/sheetalagarwal544]
 
-- 📫 How to reach me **Sheetalagarwal544@gmail.com**
+ This is <b> Sheetal Agarwal</b>, Dedicated and Self-Motivated learner </b>👨🏼‍💻, I am <em><b>DevOps Automation & ☁ Hybrid Multi Cloud Computing ☁Enthusiast Having a Good Leadership & Management Skills .</b></em> Seeking an opportunity to work in challenging environment which helps me to enhance & use my skills to develop sustainable technologies.
+
+</div>
+
+
+<div>
+<br>
+<br>
+
+ 
+<h3 align="left">👨🏼‍💻 Tools & Technolgies 👨🏼‍💻 </h3>
+
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/SheetalAgarwal26/SheetalAgarwal26/main/images/7139c9e132669abc7c8ad116787b638c.gif" width = "400" height="250"/>
+<br>
+  
+  [![Terraform](https://img.shields.io/badge/Automation-Terraform-623ce4?style=flat-square&logo=terraform&logoColor=white)](https://www.terraform.io/)
+  ![Ansible](https://img.shields.io/badge/Automation-Ansible-yellow??style=flat-square&logo=ansible&logoColor=white)
+![AWS](https://img.shields.io/badge/Cloud-AWS-yellow?style=flat-square&logo=amazon-aws&logoColor=white)
+![EKS](https://img.shields.io/badge/EKS-AWS-purple?style=flat-square&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
+![YAML](https://img.shields.io/badge/Scripting%20Language%20-YAML-purple?style=flat-square)
+[![Editor](https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+![WebDevelopment ](https://img.shields.io/badge/-Web%20Development-white?style=flat-square)
+![MySQL](https://img.shields.io/badge/-MySQL-yellow?style=flat-square&logo=mysql&logoColor=green)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![Git](https://img.shields.io/badge/-Git-blue?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+![OS](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white)
+![ComputerNetwork](https://img.shields.io/badge/-Computer%20Networking-orange?style=flat-square&logo=network)
+![Shell](https://img.shields.io/badge/-Shell-blasck?style=plastic&logo=Shell)
+ ![Slack](https://img.shields.io/badge/-Slack-E01563?style=flat-square&logo=Slack&logoColor=white)
+ ![Apache](https://img.shields.io/badge/-Apache-D22128?style=flat-square&logo=Apache&logoColor=white)
+ ![Hadoop](https://img.shields.io/badge/-Hadoop-blue?style=flat-square&logo=apache-hadoop&logoColor=violet)
+ ![BigData](https://img.shields.io/badge/-BigData-purple?style=flat-square)
+ ![BashScripting](https://img.shields.io/badge/-BashScripting-blue?style=flat-square)
+ ![Prometheus](https://img.shields.io/badge/-Prometheus-000?&logo=Prometheus)
+ ![Grafana](https://img.shields.io/badge/-Grafana-000?&logo=Grafana)
+ ![RedHat](https://img.shields.io/badge/OS-RedHat--8-red?style=flat-square&logo=RedHat8&logoColor=black)
+ [![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=ffffff)](https://kubernetes.io/)
+ ![Flutter](https://img.shields.io/badge/App%20Development%20-Flutter-green??style=flat&logo=flutter)
+ ![Dart](https://img.shields.io/badge/Android%20Language%20-Dart-yellow??style=flat&logo=dart&logoColor=yellow)
+
+</br>
+</br>
+
+</div>
 
 
 <h3 align="left">Connect with me:</h3>
@@ -13,19 +71,14 @@
 <a href="https://sheetalagarwal26.medium.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="sheetalagarwal544" height="30" width="40" /></a>
 </p>
 
+<!--Github Progess bar-->
 
-
-- 🔭 I’m currently working on **Searce **
-
-- 🌱 I’m currently learning **DevOps , RedHat , Cloud Computing , Machine Learning , Flutter**
-
-- 💬 Ask me about **DevOps , Cloud Computing**
-
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sheetalagarwal26&show_icons=true&locale=en" alt="sheetalagarwal26" /></p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sheetalagarwal26&show_icons=true&locale=en&layout=compact" alt="sheetalagarwal26" /></p>
-
+## 📝 Quick Overview 📝
+    
+<a href="https://github.com/hackcoderr/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=SheetalAgarwal26&show_icons=true&include_all_commits=true&theme=radical" alt="Sheetal's github stats" />
+</a>
+<a href="https://github.com/hackcoderr/github-readme-stats">
+ 
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Onkar179&layout=compact&theme=radical" />
+</a> 
